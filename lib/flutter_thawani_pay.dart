@@ -1,7 +1,5 @@
 library flutter_thawani_pay;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/models/models.dart';
+export 'src/repositories/repositories.dart';
+export 'src/views/views.dart';

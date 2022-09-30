@@ -30,14 +30,11 @@ dependencies:
       url: https://github.com/isyedaliraza/flutter_thawani_pay.git
 ```
 
+As this plugin uses [webview_flutter](https://pub.dev/packages/webview_flutter), make sure to follow all the configuration steps as mentioned in webview_flutter docs.
+
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
-```
+For usage refer to the example project of this plugin.
 
 ## Additional information
 

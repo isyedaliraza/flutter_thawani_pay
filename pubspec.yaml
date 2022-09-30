@@ -1,7 +1,7 @@
 name: flutter_thawani_pay
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
+description: A plugin to integrate Thawani Payment Gateway in flutter apps.
+version: 1.0.0
+homepage: https://github.com/isyedaliraza/flutter_thawani_pay
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
@@ -10,6 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  http: ^0.13.5
+  webview_flutter: ^3.0.4
 
 dev_dependencies:
   flutter_test:
